@@ -4,8 +4,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Click here!]()
-- Live Site URL: [Click here!]()
+- Solution URL: [Click here!](https://github.com/logic23dev/social-proof-section)
+- Live Site URL: [Click here!](https://logic23dev.github.io/social-proof-section/)
 
 ### Built with
 
