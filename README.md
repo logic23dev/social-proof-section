@@ -12,7 +12,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### Author
